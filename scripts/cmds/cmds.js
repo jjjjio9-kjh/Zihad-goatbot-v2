@@ -6,11 +6,11 @@ const ITEMS_PER_PAGE = 10;
 module.exports.config = {
   name: "cmdstore",
   aliases: ["cmds", "cs"],
-  author: "MahMUD",
+  author: "Zihad",
   role: 0,
   version: "1.7",
   description: {
-    en: "Commands Store of MahMUD",
+    en: "Commands Store of ZIHAD",
   },
   countDown: 3,
   category: "general",
