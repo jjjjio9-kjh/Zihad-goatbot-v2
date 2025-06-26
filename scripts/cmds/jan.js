@@ -20,7 +20,7 @@ module.exports = {
   config: {
     name: "bot",
     version: "1.7",
-    author: "MahMUD",
+    author: "ZIHAD",
     role: 0,
     description: { en: "no prefix command." },
     category: "ai",
