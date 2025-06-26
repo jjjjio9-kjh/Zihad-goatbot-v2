@@ -9,7 +9,7 @@ module.exports = {
     config: {
         name: "age",
         version: "1.7",
-        author: "MahMUD",
+        author: "ZIHAD",
         category: "utility",
         guide: {
             en: "Usage: age <YYYY-MM-DD>"
