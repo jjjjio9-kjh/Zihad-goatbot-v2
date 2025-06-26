@@ -10,7 +10,7 @@ module.exports = {
     name: "profile",
     aliases: ["pp","dp", "pfp"],
     version: "1.7",
-    author: "MahMUD",
+    author: "ZIHAD",
     role: 0,
     category: "media",
     guide: {
